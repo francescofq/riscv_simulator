@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/riscv-sim.dir/src/main.cpp.o" "CMakeFiles/riscv-sim.dir/src/cli.cpp.o" "CMakeFiles/riscv-sim.dir/src/cpu.cpp.o" "CMakeFiles/riscv-sim.dir/src/decoder.cpp.o" "CMakeFiles/riscv-sim.dir/src/memory.cpp.o" -o riscv-sim 
